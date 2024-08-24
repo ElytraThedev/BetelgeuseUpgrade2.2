@@ -1,0 +1,85 @@
+{
+    "test90": {
+        "password": "test90",
+        "email": "test90",
+        "bio": "hello, my long fellows",
+        "profile_picture": "C:/Users/Vivek bhimrao shinde/3D Objects/vhh[n mmn.png",
+        "Status": "Admin",
+        "posts": [
+            {
+                "content": "All my Fellas",
+                "comments": [],
+                "likes": 0,
+                "image": "C:/Users/Vivek bhimrao shinde/3D Objects/vhh[n mmn.png"
+            },
+            {
+                "content": "hello, my  guy",
+                "comments": [],
+                "likes": 0,
+                "image": "C:/Users/Vivek bhimrao shinde/3D Objects/fghf.png"
+            },
+            {
+                "content": "hello",
+                "comments": [],
+                "likes": 0,
+                "image": ""
+            },
+            {
+                "content": "hello",
+                "comments": [],
+                "likes": 0,
+                "image": "C:/Users/Vivek bhimrao shinde/Desktop/Trash/Story_35-01.jpg"
+            }
+        ],
+        "followers": [
+            "insufficient data"
+        ],
+        "following": [
+            "insufficient data"
+        ],
+        "notifications": [
+            "insufficient data"
+        ]
+    },
+    "Graham_not_born_\"yet\"": {
+        "password": "Graham_not_born_\"yet\"",
+        "email": "Graham/Betelgeuse/Admin.Bmeg.Bt",
+        "bio": "",
+        "profile_picture": null,
+        "Status": "V.I.P",
+        "posts": [
+            {
+                "content": "hewwo my fwends pwease subkwibe und wike ma vwytyos",
+                "comments": [],
+                "likes": 0,
+                "image": "C:/Users/Vivek bhimrao shinde/3D Objects/fghf.png"
+            }
+        ],
+        "followers": [
+            13000
+        ],
+        "following": [
+            1
+        ],
+        "notifications": [
+            "insufficient data"
+        ]
+    },
+    "Fireship_unofficial": {
+        "password": "yt",
+        "email": "Fireship\\Betelgeuse\\Creator.bt",
+        "bio": "",
+        "profile_picture": null,
+        "posts": [
+            {
+                "content": "Fire in the hole",
+                "comments": [],
+                "likes": 0,
+                "image": "C:/Users/Vivek bhimrao shinde/Downloads/bgs.png"
+            }
+        ],
+        "followers": [],
+        "following": [],
+        "notifications": []
+    }
+}
